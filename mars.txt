@@ -3,3 +3,5 @@ hello
 mars
 
 mars is orange
+
+mars is far away
